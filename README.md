@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Preona Dsouza 👋
 
-<!--
-**preona-dsouza/preona-dsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity Beginner | Network | Cloud | SOC
 
-Here are some ideas to get you started:
+I am currently learning and building fundamentals in:
+- Networking fundamentals
+- Cybersecurity basics
+- Cloud fundamentals
+- SOC (Security Operations Center)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Labs & Tools
+- TryHackMe
+- Kali Linux
+- Wireshark
+- Nmap
+
+---
+
+## Current Focus
+- Building real-world cybersecurity projects
+- Practicing hands-on cybersecurity labs
+- Developing strong defensive security skills
+
+---
+
+## Focus Areas
+- Cybersecurity (Cloud Security, Network Security, SOC)
+- Defensive Security
+- Security Monitoring
+
+---
+
+## 🚀 Goals
+- Become a SOC Analyst
+- Learn SIEM & threat detection
+- Build cybersecurity projects for portfolio
