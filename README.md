@@ -1,5 +1,11 @@
 # Hi, I'm Preona Dsouza 👋
 
+Welcome to my GitHub!
+
+I use GitHub to share my projects, explore new ideas, document what I build, and keep track of my work.
+
+You'll find a collection of projects, experiments, and things I've worked on here.
+
 ## Cybersecurity Beginner | Network | Cloud | SOC
 
 I am currently learning and building fundamentals in:
@@ -36,3 +42,5 @@ I am currently learning and building fundamentals in:
 - Become a SOC Analyst
 - Learn SIEM & threat detection
 - Build cybersecurity projects for portfolio
+
+Thanks for stopping by! 
