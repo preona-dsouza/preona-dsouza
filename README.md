@@ -6,8 +6,15 @@ I use GitHub to share my projects, explore new ideas, document what I build, and
 
 You'll find a collection of projects, experiments, and things I've worked on here.
 
-## Cybersecurity Beginner | Network | Cloud | SOC
+## My Projects
+- Cybersecurity Portfolio
+- MindX – AI for Mental Well-being
+- Visualisation and Prediction of Stocks
+- Android Language Translator
 
+
+
+## My Interests
 I am currently learning and building fundamentals in:
 - Networking fundamentals
 - Cybersecurity basics
@@ -25,16 +32,9 @@ I am currently learning and building fundamentals in:
 ---
 
 ## Current Focus
-- Building real-world cybersecurity projects
+- Building real-world cybersecurity projects (Cloud Security, Network Security, SOC)
 - Practicing hands-on cybersecurity labs
 - Developing strong defensive security skills
-
----
-
-## Focus Areas
-- Cybersecurity (Cloud Security, Network Security, SOC)
-- Defensive Security
-- Security Monitoring
 
 ---
 
@@ -43,4 +43,5 @@ I am currently learning and building fundamentals in:
 - Learn SIEM & threat detection
 - Build cybersecurity projects for portfolio
 
+---
 Thanks for stopping by! 
